@@ -22,7 +22,6 @@ This lightweight dApp allows users to connect their wallet and view their ERC-20
 - **RainbowKit** – Wallet connector
 - **Wagmi** – Ethereum hooks & account state
 - **Ethers.js** – Contract interaction and blockchain querying
-- **Vite** – Lightning-fast dev tooling
 
 ---
 
