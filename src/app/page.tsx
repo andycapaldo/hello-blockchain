@@ -71,7 +71,7 @@ export default function HomePage() {
 
       {isConnected && (
         <>
-          <form onSubmit={handleSubmit} className='mt-6 flex flex-col items-center gap-2 border-2 border-blue-200 p-4 rounded-lg w-1/5'>
+          <form onSubmit={handleSubmit} className='mt-6 flex flex-col items-center gap-2 border-2 border-blue-200 p-4 rounded-lg w-full max-w-md'>
             <input 
               type='text'
               placeholder='Enter contract address'
