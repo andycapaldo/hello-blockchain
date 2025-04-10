@@ -46,7 +46,10 @@ This was a quick project to:
 ## 📦 Install Locally
 
 ```bash
-git clone https://github.com/yourname/hello-blockchain.git
-cd hello-blockchain
-npm install
 npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
